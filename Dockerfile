@@ -1,7 +1,7 @@
 FROM ubuntu:18.04 AS base
 
 LABEL author="MORTADA" \
-      name="MYSQL SQLSERVER DB2 ORACLE POSTGRESQL IMAGE" \
+      name="MYSQL SQLSERVER DB2 ORACLE POSTGRESQL Databrciks IMAGE" \
       version="v1.0-BETA"
 
 #ADD user
